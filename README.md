@@ -1,7 +1,7 @@
 ## Hi there, My name is Bo Ying 👋
 
 
-**Bo Ying** is Master student in Statistics
+**Bo Ying** is Master student in Statistics. I obtained my BSc in Mathematics and Statistics at the University of Manchester.
 
 Research Interests:
 
